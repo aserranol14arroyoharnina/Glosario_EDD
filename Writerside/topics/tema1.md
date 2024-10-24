@@ -12,3 +12,10 @@ Se almacena en un servidor, como GitHub, GitLab o Bitbucket. Sirve como un punto
 
 * <tooltip term="Commit">**Commit**</tooltip>:
 Un commit es una instantánea de los cambios realizados en el repositorio en un momento dado. Cada commit tiene un mensaje asociado que describe los cambios realizados. Los commits son la unidad básica del historial de un proyecto en Git. Permiten rastrear el progreso del desarrollo, identificar quién hizo qué cambios y cuándo, y revertir a versiones anteriores si es necesario.
+
+* <tooltip term="Fork">**Fork**</tooltip>:
+Esta copia te permite hacer cambios y experimentar sin afectar el repositorio original. Es especialmente útil para colaborar en proyectos de código abierto. Aquí tienes un desglose más detallado:
+
+1.Copia independiente: Un fork es una copia completa del repositorio original, incluyendo todo su historial de commits.
+Desarrollo paralelo: Puedes trabajar en tu fork de manera independiente, añadiendo nuevas características, corrigiendo errores o experimentando con el código.
+2.Contribuciones: Si haces cambios que crees que pueden beneficiar al proyecto original, puedes enviar un “Pull Request” para que los mantenedores del repositorio original revisen y, si lo consideran adecuado, integren tus cambios.
