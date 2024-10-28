@@ -15,3 +15,7 @@ Un commit es una instantánea de los cambios realizados en el repositorio en un 
 
 
 * **Vim**: Editor de código en consola de comandos
+
+**Fork**
+
+Un **fork** es una copia de un repositorio que se crea para hacer cambios de manera independiente al proyecto original. Este proceso es comúnmente utilizado para contribuir a proyectos de código abierto. Al hacer un fork, obtienes una copia completa de un repositorio , donde se pueden realizar cambios sin afectar el repositorio original.
