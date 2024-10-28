@@ -15,3 +15,4 @@ Un commit es una instantánea de los cambios realizados en el repositorio en un 
 
 
 * **Vim**: Editor de código en consola de comandos
+* <tooltip term="móvil">**movil**</tooltip>:Un teléfono móvil o teléfono celular, ​​ ​ es un dispositivo electrónico portátil, que puede permitir llamadas a través de una onda de radiofrecuencia, mientras el usuario se está moviendo dentro de un área de servicio telefónico.​
