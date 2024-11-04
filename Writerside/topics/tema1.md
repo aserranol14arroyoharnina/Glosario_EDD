@@ -15,4 +15,4 @@ Un commit es una instantánea de los cambios realizados en el repositorio en un 
 
 
 * **Vim**: Editor de código en consola de comandos
-* <tooltip term="fork">**movil**</tooltip>:En ingeniería de software se considera una bifurcación al desarrollo de un proyecto informático tomando como base un código fuente que ya existe o a la ramificación de un proyecto madre en varios proyectos que son independientes entre sí y que cuentan con objetivos o desarrolladores diferentes.​ 
+* <tooltip term="fork">**fork**</tooltip>:En ingeniería de software se considera una bifurcación al desarrollo de un proyecto informático tomando como base un código fuente que ya existe o a la ramificación de un proyecto madre en varios proyectos que son independientes entre sí y que cuentan con objetivos o desarrolladores diferentes.​ 
