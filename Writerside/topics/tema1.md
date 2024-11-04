@@ -13,10 +13,12 @@ Se almacena en un servidor, como GitHub, GitLab o Bitbucket. Sirve como un punto
 * <tooltip term="Commit">**Commit**</tooltip>:
 Un commit es una instantánea de los cambios realizados en el repositorio en un momento dado. Cada commit tiene un mensaje asociado que describe los cambios realizados. Los commits son la unidad básica del historial de un proyecto en Git. Permiten rastrear el progreso del desarrollo, identificar quién hizo qué cambios y cuándo, y revertir a versiones anteriores si es necesario.
 
+* <tooltip term="Sistema de archivos">**Sistema de archivos**</tooltip>:
+Sistema que almacena y organiza archivos en dispositivos de almacenamiento usando directorios y subdirectorios para facilitar una organización jerárquica en los archivos y con los metadatos, tales como archivos, tamaños, fechas de modificación y permisos.
+
 * <tooltip term="Merge">**Merge**</tooltip>:
 Proceso de combinar los cambios de una rama con otra, incorporando las modificaciones.
 
 * <tooltip term="Branch">**Branch**</tooltip>:
 Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal.
 
-* **Vim**: Editor de código en consola de comandos
