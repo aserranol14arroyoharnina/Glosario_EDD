@@ -15,3 +15,10 @@ Un commit es una instantánea de los cambios realizados en el repositorio en un 
 
 * <tooltip term="Sistema de archivos">**Sistema de archivos**</tooltip>:
 Sistema que almacena y organiza archivos en dispositivos de almacenamiento usando directorios y subdirectorios para facilitar una organización jerárquica en los archivos y con los metadatos, tales como archivos, tamaños, fechas de modificación y permisos.
+
+* <tooltip term="Merge">**Merge**</tooltip>:
+Proceso de combinar los cambios de una rama con otra, incorporando las modificaciones.
+
+* <tooltip term="Branch">**Branch**</tooltip>:
+Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal.
+
