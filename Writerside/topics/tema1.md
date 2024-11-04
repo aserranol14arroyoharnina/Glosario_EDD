@@ -1,3 +1,4 @@
+
 # Tema 1. Sistemas de control de versiones. Git
 
 * <tooltip term="Git">**Git**</tooltip>: Es un sistema de control de versiones distribuido. Esto significa que cada desarrollador tiene una copia completa del historial del proyecto en su máquina local. Esto permite trabajar sin conexión y facilita la colaboración, ya que los cambios se pueden fusionar fácilmente de diferentes fuentes. Git rastrea los cambios en el código fuente durante el desarrollo de software, permitiendo a los desarrolladores volver a versiones anteriores, experimentar con nuevas funciones y trabajar simultáneamente en diferentes partes del proyecto sin interferir entre sí.
@@ -20,3 +21,4 @@ Proceso de combinar los cambios de una rama con otra, incorporando las modificac
 Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal.
 
 * **Vim**: Editor de código en consola de comandos
+nueva palabra: definición.
