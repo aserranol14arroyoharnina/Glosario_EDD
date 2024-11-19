@@ -21,5 +21,7 @@ Es una rama dentro de un repositorio Git que permite trabajar en múltiples vers
 
 * **Vim**: Editor de código en consola de comandos
 
+feature/git_reflog
 * <tooltip term="Git Reflog">**Git Reflog**</tooltip>:
 El comando git reflog mantiene un registro de todas las referencias (movimientos) en tu repositorio, incluso si esas referencias no están más en tu historial de commits, como ocurre cuando haces un reset o un checkout a un commit anterior. Básicamente, git reflog te permite ver el historial de cambios en el puntero HEAD y otras ramas, ayudándote a recuperar el estado anterior de tu repositorio en situaciones complejas.
+
