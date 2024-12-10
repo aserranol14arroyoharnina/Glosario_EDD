@@ -16,6 +16,7 @@ Un commit es una instantánea de los cambios realizados en el repositorio en un 
 * <tooltip term="Merge">**Merge**</tooltip>:
 Proceso de combinar los cambios de una rama con otra, incorporando las modificaciones.
 
+***fork**:En ingeniería de software se considera una bifurcación al desarrollo de un proyecto informático tomando como base un código fuente que ya existe o a la ramificación de un proyecto madre en varios proyectos que son independientes entre sí y que cuentan con objetivos o desarrolladores diferentes.​ 
 * <tooltip term="Branch">**Branch**</tooltip>:
 Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal.
 
