@@ -13,10 +13,6 @@ Se almacena en un servidor, como GitHub, GitLab o Bitbucket. Sirve como un punto
 * <tooltip term="Commit">**Commit**</tooltip>:
 Un commit es una instantánea de los cambios realizados en el repositorio en un momento dado. Cada commit tiene un mensaje asociado que describe los cambios realizados. Los commits son la unidad básica del historial de un proyecto en Git. Permiten rastrear el progreso del desarrollo, identificar quién hizo qué cambios y cuándo, y revertir a versiones anteriores si es necesario.
 
-* <tooltip term="Kernel">**Kernel**</tooltip>:
-Es el núcleo del sistema operativo que gestiona los recursos del sistema y
-permite la comunicación entre hardware y software.
-
 * <tooltip term="Merge">**Merge**</tooltip>:
 Proceso de combinar los cambios de una rama con otra, incorporando las modificaciones.
 
