@@ -19,4 +19,18 @@
     <term name="Commit">
       Un commit es una instantánea de los cambios realizados en el repositorio en un momento dado. Cada commit tiene un mensaje asociado que describe los cambios realizados. Los commits son la unidad básica del historial de un proyecto en Git. Permiten rastrear el progreso del desarrollo, identificar quién hizo qué cambios y cuándo, y revertir a versiones anteriores si es necesario.
     </term>
+
+    <term name="Merge">
+        Proceso de combinar los cambios de una rama con otra, incorporando las modificaciones.
+    </term>
+  
+    <term name="Branch">
+     Es una rama dentro de un repositorio Git que permite trabajar en múltiples versiones de un proyecto simultáneamente. Cada rama representa una línea de desarrollo independiente, lo que facilita la experimentación y la colaboración sin afectar la rama principal
+    </term>
+    <term name="Firmware">
+El firmware es un tipo de software que proporciona instrucciones de máquina a los componentes de hardware de un dispositivo, lo que le permite funcionar a un nivel básico.   
+   
+    <term name="Kernel"> 
+    El kernel es el núcleo del sistema operativo, encargado de gestionar la comunicación entre el hardware y el software. Actúa como intermediario, controlando los recursos del sistema, como la CPU, la memoria y los dispositivos periféricos, para garantizar que las aplicaciones se ejecuten correctamente.
+    </term>
 </terms>

@@ -8,4 +8,6 @@
 
     <toc-element topic="starter.md"/>
     <toc-element topic="tema1.md"/>
+    <toc-element topic="tema2.md"/>
+    <toc-element topic="tema3.md"/>
 </instance-profile>
