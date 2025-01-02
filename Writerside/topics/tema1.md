@@ -22,3 +22,6 @@ Es una rama dentro de un repositorio Git que permite trabajar en múltiples vers
 * **Vim**: Editor de código en consola de comandos
 
 * **Git Flow**: Es un modelo alternativo de creación de ramas en Git en el que se utilizan ramas de función y varias ramas principales.
+### Clase
+Una clase Una clase es un modelo o plantilla a partir del cual se crean objetos en programación orientada a objetos. Define las propiedades (atributos) y comportamientos (métodos) que tendrán los objetos creados a partir de ella.
+ 
